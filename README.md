@@ -11,4 +11,8 @@ Features:
 2) Intricate 3D model of a lotus garden
 Features:
 - Showcases the intricate design and rendering capabilities of the software
-- Includes .blend file and all associated assets
+- Includes .blend file and assets
+- Includes .gltf file that can be used as model for Augmented Reality
+![image](https://github.com/chhaviGupta986/Blender-3D-Projects/assets/94625954/174c0888-8fb2-4cb9-b7ae-eb6579abe25a)
+![image](https://github.com/chhaviGupta986/Blender-3D-Projects/assets/94625954/ff649d96-7c8f-4cd1-b0e3-2b1e0daeddf6)
+![image](https://github.com/chhaviGupta986/Blender-3D-Projects/assets/94625954/6d1f3f75-4c5a-4e10-8468-be708d6c70c2)
